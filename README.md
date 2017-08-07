@@ -1,2 +1,2 @@
 # Countries
-Sort the list of countries alphabetically using bubble sort.
+Sort the list of countries alphabetically using binary search.
